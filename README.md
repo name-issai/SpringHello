@@ -33,6 +33,7 @@ docker pull gazgeek/springboot-helloworld
 docker container run -p 8080:8080 -d gazgeek/springboot-helloworld
 
 Go to Browser and type http://localhost:8080/ or do curl http://localhost:8080/ on command prompt.
+
 ```
 
 
